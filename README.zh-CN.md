@@ -33,6 +33,7 @@
 
 ## 更新日志
 
+- **2026-11-26:** 新增 AI 维护规范、本地研究路线图、Git 忽略规则和文献维护脚本。
 - **2026-11-26:** 新增致谢、学术引用、许可证、Star History 和贡献者模块。
 - **2026-11-26:** 综述扩充至 5 篇，文献总数增至 49 篇，并统一连续编号。
 - **2026-11-26:** 发布首版中英文文献库，收录 45 篇论文，设置 7 个研究方向和 20 篇核心精读文献。
@@ -212,6 +213,8 @@
 <a id="resources"></a>
 
 ## 相关资源
+
+**仓库维护：** [AI 维护规范](AGENTS.md) · [文献校验与导出脚本](scripts/README.md) · [研究方向图](assets/research-map.svg) · [配图来源](assets/README.md)
 
 - [Awesome Dexterous Manipulation](https://github.com/chang-xinhai/Awesome-Dexterous-Manipulation)
 - [Awesome Robot Data Engine](https://github.com/chang-xinhai/Awesome-Robot-Data-Engine)
