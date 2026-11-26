@@ -1,12 +1,32 @@
-# Awesome Dexterous Manipulation Papers · 灵巧手论文精选
+<div align="center">
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Papers](https://img.shields.io/badge/Papers-45-blue) ![Updated](https://img.shields.io/badge/Updated-2026--11--26-informational)
+# Awesome Dexterous Manipulation Papers
+
+**灵巧手操作 · 前沿论文 · 科研阅读指南**
+
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+![Papers](https://img.shields.io/badge/Papers-45-2867B2?style=flat-square)
+![Core Reading](https://img.shields.io/badge/Core%20Reading-20-7C3AED?style=flat-square)
+![Updated](https://img.shields.io/badge/Updated-2026--11--26-16805D?style=flat-square)
+[![GitHub Stars](https://img.shields.io/github/stars/airhiter/Awesome-Dexterous-Manipulation?style=flat-square)](https://github.com/airhiter/Awesome-Dexterous-Manipulation/stargazers)
 
 [English](README.md) | [简体中文](README.zh-CN.md)
 
-面向灵巧手操作算法研究的精选文献库，涵盖机器人顶会、相关高水平会议、产业界技术报告和 arXiv 预印本。
+[领域综述](#category-7) · [核心精读](#core-reading) · [相关资源](#resources) · [贡献指南](#contributing)
 
-**检索截止：** 2026-11-26 · **45 篇文献**
+</div>
+
+## 关于本项目
+
+**Awesome Dexterous Manipulation Papers** 聚焦灵巧手操作的前沿算法研究，汇集 CoRL、RSS、ICRA、IROS 等会议论文及产业界技术报告，涵盖数据采集、触觉感知、强化学习、VLA、世界模型与灵巧抓取。
+
+<p align="center">
+  <a href="https://arxiv.org/abs/2504.03515"><img src="https://raw.githubusercontent.com/chang-xinhai/Awesome-Dexterous-Manipulation/main/assets/dexterous-manipulation-examples.png" alt="Real-world dexterous robotic manipulation examples" width="900"></a>
+  <br>
+  <sub>真实世界中的灵巧操作示例。来源：Fig. 1, <a href="https://arxiv.org/abs/2504.03515">Dexterous Manipulation through Imitation Learning: A Survey</a> (An et al., 2025). 图像链接来自 <a href="https://github.com/chang-xinhai/Awesome-Dexterous-Manipulation">chang-xinhai/Awesome-Dexterous-Manipulation</a>.</sub>
+</p>
+
+**检索截止:** 2026-11-26 · **45 篇文献 · 7 个方向 · 20 篇核心精读**
 
 ## 目录
 
