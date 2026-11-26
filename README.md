@@ -33,6 +33,7 @@
 
 ## News
 
+- **2026-11-26:** Added AI maintenance guidelines, a local research map, Git ignore rules and bibliography maintenance scripts.
 - **2026-11-26:** Added acknowledgements, citation, license, star history and contributors.
 - **2026-11-26:** Expanded the survey section to five papers, bringing the collection to 49 entries, and renumbered the bibliography.
 - **2026-11-26:** Launched the bilingual collection with 45 papers, seven research categories and a 20-paper core reading list.
@@ -212,6 +213,8 @@ Limitations / Reproducibility / Research opportunities
 <a id="resources"></a>
 
 ## Resources
+
+**Repository maintenance:** [Agent guidelines](AGENTS.md) · [Bibliography validation and export](scripts/README.md) · [Research map](assets/research-map.svg) · [Asset credits](assets/README.md)
 
 - [Awesome Dexterous Manipulation](https://github.com/chang-xinhai/Awesome-Dexterous-Manipulation)
 - [Awesome Robot Data Engine](https://github.com/chang-xinhai/Awesome-Robot-Data-Engine)
