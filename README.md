@@ -10,22 +10,32 @@ A curated reading list of dexterous robotic manipulation papers, including robot
 
 ## Contents
 
+- [Surveys (1)](#category-7)
 - [Data Acquisition, Imitation Learning and Cross-Embodiment Transfer (13)](#category-1)
 - [Tactile Sensing and Multimodal Learning (10)](#category-2)
 - [Reinforcement Learning, Sim-to-Real and Post-training (7)](#category-3)
 - [VLA and Generalist Foundation Models (5)](#category-4)
 - [World Models, Dynamics and Contact Control (8)](#category-5)
 - [Dexterous Grasping and Datasets (1)](#category-6)
-- [Surveys (1)](#category-7)
 - [Core Reading List (20)](#core-reading)
 - [Resources](#resources)
 - [Contributing](#contributing)
 
 **Reading priority:** S = deep reading; A = full reading; B = supplementary.
 
+<a id="category-7"></a>
+
+## 01. Surveys (1)
+
+Where should a newcomer start?
+
+| ID | Paper | Venue / Status | Focus | Source | Priority |
+| --- | --- | --- | --- | --- | --- |
+| 45 | Dexterous Robotic Hands in the Foundation-Model Era: A Full-Stack Survey of Hardware, Data, Cross-Embodiment Transfer, Learning, and Evaluation | arXiv 2026.11 | Full-stack overview of dexterous robotic hands | [Source](https://arxiv.org/abs/2611.06724) | **S** |
+
 <a id="category-1"></a>
 
-## 01. Data Acquisition, Imitation Learning and Cross-Embodiment Transfer (13)
+## 02. Data Acquisition, Imitation Learning and Cross-Embodiment Transfer (13)
 
 How can we obtain high-quality and scalable demonstrations?
 
@@ -47,7 +57,7 @@ How can we obtain high-quality and scalable demonstrations?
 
 <a id="category-2"></a>
 
-## 02. Tactile Sensing and Multimodal Learning (10)
+## 03. Tactile Sensing and Multimodal Learning (10)
 
 How can robots sense contact, friction, slip and force?
 
@@ -66,7 +76,7 @@ How can robots sense contact, friction, slip and force?
 
 <a id="category-3"></a>
 
-## 03. Reinforcement Learning, Sim-to-Real and Post-training (7)
+## 04. Reinforcement Learning, Sim-to-Real and Post-training (7)
 
 How can interaction and policy improvement enhance dexterity?
 
@@ -82,7 +92,7 @@ How can interaction and policy improvement enhance dexterity?
 
 <a id="category-4"></a>
 
-## 04. VLA and Generalist Foundation Models (5)
+## 05. VLA and Generalist Foundation Models (5)
 
 How can a shared model generalize across tasks and embodiments?
 
@@ -96,7 +106,7 @@ How can a shared model generalize across tasks and embodiments?
 
 <a id="category-5"></a>
 
-## 05. World Models, Dynamics and Contact Control (8)
+## 06. World Models, Dynamics and Contact Control (8)
 
 How can models predict physical consequences and guide control?
 
@@ -113,23 +123,13 @@ How can models predict physical consequences and guide control?
 
 <a id="category-6"></a>
 
-## 06. Dexterous Grasping and Datasets (1)
+## 07. Dexterous Grasping and Datasets (1)
 
 How can we generate stable and physically feasible grasps?
 
 | ID | Paper | Venue / Status | Focus | Source | Priority |
 | --- | --- | --- | --- | --- | --- |
 | 44 | DexGraspNet | ICRA 2023 | Large-scale grasp dataset and physics-constrained optimization | [Source](https://pku-epic.github.io/DexGraspNet/) | **B** |
-
-<a id="category-7"></a>
-
-## 07. Surveys (1)
-
-Where should a newcomer start?
-
-| ID | Paper | Venue / Status | Focus | Source | Priority |
-| --- | --- | --- | --- | --- | --- |
-| 45 | Dexterous Robotic Hands in the Foundation-Model Era: A Full-Stack Survey of Hardware, Data, Cross-Embodiment Transfer, Learning, and Evaluation | arXiv 2026.11 | Full-stack overview of dexterous robotic hands | [Source](https://arxiv.org/abs/2611.06724) | **S** |
 
 <a id="core-reading"></a>
 
