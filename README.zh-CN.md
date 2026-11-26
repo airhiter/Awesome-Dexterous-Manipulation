@@ -5,7 +5,7 @@
 **灵巧手操作 · 前沿论文 · 科研阅读指南**
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-![Papers](https://img.shields.io/badge/Papers-45-2867B2?style=flat-square)
+![Papers](https://img.shields.io/badge/Papers-49-2867B2?style=flat-square)
 ![Core Reading](https://img.shields.io/badge/Core%20Reading-20-7C3AED?style=flat-square)
 ![Updated](https://img.shields.io/badge/Updated-2026--11--26-16805D?style=flat-square)
 [![GitHub Stars](https://img.shields.io/github/stars/airhiter/Awesome-Dexterous-Manipulation?style=flat-square)](https://github.com/airhiter/Awesome-Dexterous-Manipulation/stargazers)
@@ -26,11 +26,11 @@
   <sub>真实世界中的灵巧操作示例。来源：Fig. 1, <a href="https://arxiv.org/abs/2504.03515">Dexterous Manipulation through Imitation Learning: A Survey</a> (An et al., 2025). 图像链接来自 <a href="https://github.com/chang-xinhai/Awesome-Dexterous-Manipulation">chang-xinhai/Awesome-Dexterous-Manipulation</a>.</sub>
 </p>
 
-**检索截止:** 2026-11-26 · **45 篇文献 · 7 个方向 · 20 篇核心精读**
+**检索截止:** 2026-11-26 · **49 篇文献 · 7 个方向 · 20 篇核心精读**
 
 ## 目录
 
-- [领域综述 (1)](#category-7)
+- [领域综述 (5)](#category-7)
 - [数据采集、模仿学习与跨本体迁移 (13)](#category-1)
 - [触觉感知、触觉基础模型与多模态融合 (10)](#category-2)
 - [强化学习、Sim-to-Real 与策略后训练 (7)](#category-3)
@@ -45,13 +45,19 @@
 
 <a id="category-7"></a>
 
-## 01. 领域综述 (1)
+## 01. 领域综述 (5)
 
 如何快速建立领域知识体系？
 
 | 编号 | 论文 | 发表情况 | 核心内容 | 原文 | 优先级 |
 | --- | --- | --- | --- | --- | --- |
+| 46 | The Developments and Challenges Toward Dexterous and Embodied Robotic Manipulation: A Survey | IEEE RAM 2026 | 具身灵巧操作、数据采集、学习框架与关键挑战 | [原文入口](https://doi.org/10.1109/MRA.2025.3642671) | **S** |
+| 47 | Dexterous Manipulation Through Imitation Learning: A Survey | IEEE T-ASE 2026 | 模仿学习、示范数据、遥操作与灵巧操作 | [原文入口](https://doi.org/10.1109/TASE.2025.3646183) | **S** |
 | 45 | Dexterous Robotic Hands in the Foundation-Model Era: A Full-Stack Survey of Hardware, Data, Cross-Embodiment Transfer, Learning, and Evaluation | arXiv 2026.11 | 基础模型时代灵巧机械手的全栈综述 | [原文入口](https://arxiv.org/abs/2611.06724) | **S** |
+| 48 | Towards Robotic Dexterous Hand Intelligence: A Survey | arXiv 2026.05 | 硬件、控制、学习方法、数据集与评估 | [原文入口](https://arxiv.org/abs/2605.13925) | **A** |
+| 49 | Survey of Learning-Based Approaches for Robotic In-Hand Manipulation | Frontiers in Robotics and AI 2024 | 手内操作的模型学习、强化学习与模仿学习 | [原文入口](https://doi.org/10.3389/frobt.2024.1455431) | **A** |
+
+**推荐阅读顺序：** 先阅读 IEEE RAM 和 IEEE T-ASE 两篇正式发表的综述，建立整体技术框架；再阅读 2026 年全栈综述，补充最新进展。
 
 <a id="category-1"></a>
 
