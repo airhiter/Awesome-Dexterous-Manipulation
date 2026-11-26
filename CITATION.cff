@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If this curated literature collection helps your research, please cite it using the following metadata."
+title: "Awesome Dexterous Manipulation Papers"
+type: dataset
+authors:
+  - family-names: Chen
+    given-names: Tuo
+    website: "https://github.com/airhiter"
+date-released: "2026-11-26"
+repository-code: "https://github.com/airhiter/Awesome-Dexterous-Manipulation"
+url: "https://github.com/airhiter/Awesome-Dexterous-Manipulation"
+license: MIT
+keywords:
+  - dexterous manipulation
+  - dexterous hands
+  - robot learning
+  - tactile sensing
+  - embodied AI
