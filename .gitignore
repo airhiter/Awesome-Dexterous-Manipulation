@@ -1,0 +1,33 @@
+# Operating system
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editors
+.vscode/
+.idea/
+*.swp
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+
+# Local configuration and secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Local literature and generated outputs
+papers/
+downloads/
+exports/
+*.pdf
+*.part
+*.tmp
+*.log
