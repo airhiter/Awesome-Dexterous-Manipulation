@@ -10,22 +10,32 @@
 
 ## 目录
 
+- [领域综述 (1)](#category-7)
 - [数据采集、模仿学习与跨本体迁移 (13)](#category-1)
 - [触觉感知、触觉基础模型与多模态融合 (10)](#category-2)
 - [强化学习、Sim-to-Real 与策略后训练 (7)](#category-3)
 - [VLA 与通用灵巧操作基础模型 (5)](#category-4)
 - [世界模型、动力学建模与接触控制 (8)](#category-5)
 - [灵巧抓取与基础数据集 (1)](#category-6)
-- [领域综述 (1)](#category-7)
 - [核心精读清单（20篇）](#core-reading)
 - [相关资源](#resources)
 - [贡献指南](#contributing)
 
 **阅读优先级:** S＝重点精读；A＝完整通读；B＝补充阅读。
 
+<a id="category-7"></a>
+
+## 01. 领域综述 (1)
+
+如何快速建立领域知识体系？
+
+| 编号 | 论文 | 发表情况 | 核心内容 | 原文 | 优先级 |
+| --- | --- | --- | --- | --- | --- |
+| 45 | Dexterous Robotic Hands in the Foundation-Model Era: A Full-Stack Survey of Hardware, Data, Cross-Embodiment Transfer, Learning, and Evaluation | arXiv 2026.11 | 基础模型时代灵巧机械手的全栈综述 | [原文入口](https://arxiv.org/abs/2611.06724) | **S** |
+
 <a id="category-1"></a>
 
-## 01. 数据采集、模仿学习与跨本体迁移 (13)
+## 02. 数据采集、模仿学习与跨本体迁移 (13)
 
 如何获得大规模、高质量的操作数据并实现人机迁移？
 
@@ -47,7 +57,7 @@
 
 <a id="category-2"></a>
 
-## 02. 触觉感知、触觉基础模型与多模态融合 (10)
+## 03. 触觉感知、触觉基础模型与多模态融合 (10)
 
 如何感知接触、摩擦、滑移和作用力？
 
@@ -66,7 +76,7 @@
 
 <a id="category-3"></a>
 
-## 03. 强化学习、Sim-to-Real 与策略后训练 (7)
+## 04. 强化学习、Sim-to-Real 与策略后训练 (7)
 
 如何通过交互和策略迭代提升灵巧操作能力？
 
@@ -82,7 +92,7 @@
 
 <a id="category-4"></a>
 
-## 04. VLA 与通用灵巧操作基础模型 (5)
+## 05. VLA 与通用灵巧操作基础模型 (5)
 
 如何通过统一模型实现跨任务、跨本体泛化？
 
@@ -96,7 +106,7 @@
 
 <a id="category-5"></a>
 
-## 05. 世界模型、动力学建模与接触控制 (8)
+## 06. 世界模型、动力学建模与接触控制 (8)
 
 如何预测动作的物理后果并指导控制？
 
@@ -113,23 +123,13 @@
 
 <a id="category-6"></a>
 
-## 06. 灵巧抓取与基础数据集 (1)
+## 07. 灵巧抓取与基础数据集 (1)
 
 如何生成稳定且物理可行的抓取姿态？
 
 | 编号 | 论文 | 发表情况 | 核心内容 | 原文 | 优先级 |
 | --- | --- | --- | --- | --- | --- |
 | 44 | DexGraspNet | ICRA 2023 | 大规模灵巧抓取数据集与物理约束优化 | [原文入口](https://pku-epic.github.io/DexGraspNet/) | **B** |
-
-<a id="category-7"></a>
-
-## 07. 领域综述 (1)
-
-如何快速建立领域知识体系？
-
-| 编号 | 论文 | 发表情况 | 核心内容 | 原文 | 优先级 |
-| --- | --- | --- | --- | --- | --- |
-| 45 | Dexterous Robotic Hands in the Foundation-Model Era: A Full-Stack Survey of Hardware, Data, Cross-Embodiment Transfer, Learning, and Evaluation | arXiv 2026.11 | 基础模型时代灵巧机械手的全栈综述 | [原文入口](https://arxiv.org/abs/2611.06724) | **S** |
 
 <a id="core-reading"></a>
 
