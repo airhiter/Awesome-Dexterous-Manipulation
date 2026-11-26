@@ -8,6 +8,7 @@
 ![Papers](https://img.shields.io/badge/Papers-49-2867B2?style=flat-square)
 ![Core Reading](https://img.shields.io/badge/Core%20Reading-20-7C3AED?style=flat-square)
 ![Updated](https://img.shields.io/badge/Updated-2026--11--26-16805D?style=flat-square)
+[![License: MIT](https://img.shields.io/badge/License-MIT-6B7280?style=flat-square)](LICENSE)
 [![GitHub Stars](https://img.shields.io/github/stars/airhiter/Awesome-Dexterous-Manipulation?style=flat-square)](https://github.com/airhiter/Awesome-Dexterous-Manipulation/stargazers)
 
 [English](README.md) | [简体中文](README.zh-CN.md)
@@ -28,6 +29,14 @@
 
 **Literature cutoff:** 2026-11-26 · **49 papers · 7 categories · 20 core readings**
 
+<a id="news"></a>
+
+## News
+
+- **2026-11-26:** Added acknowledgements, citation, license, star history and contributors.
+- **2026-11-26:** Expanded the survey section to five papers, bringing the collection to 49 entries, and renumbered the bibliography.
+- **2026-11-26:** Launched the bilingual collection with 45 papers, seven research categories and a 20-paper core reading list.
+
 ## Contents
 
 - [Surveys (5)](#category-7)
@@ -40,6 +49,12 @@
 - [Core Reading List (20)](#core-reading)
 - [Resources](#resources)
 - [Contributing](#contributing)
+- [News](#news)
+- [Acknowledgement](#acknowledgement)
+- [Citation](#citation)
+- [Contributors](#contributors)
+- [Star History](#star-history)
+- [License](#license)
 
 **Reading priority:** S = deep reading; A = full reading; B = supplementary.
 
@@ -212,3 +227,66 @@ Limitations / Reproducibility / Research opportunities
 ## Contributing
 
 Corrections and new papers are welcome via issues or pull requests. See [CONTRIBUTING.md](CONTRIBUTING.md) for the inclusion and deduplication rules.
+
+<a id="acknowledgement"></a>
+
+## Acknowledgement
+
+This collection draws inspiration from the Awesome-list format and related public resources. Thanks to the maintainers of the following projects:
+
+- [Awesome-Dexterous-Manipulation](https://github.com/chang-xinhai/Awesome-Dexterous-Manipulation)
+- [Awesome-UMI](https://github.com/chang-xinhai/Awesome-UMI)
+- [Awesome-Robot-Data-Engine](https://github.com/chang-xinhai/Awesome-Robot-Data-Engine)
+- [Awesome-World-Action-Models](https://github.com/rcl-robotics/Awesome-World-Action-Models)
+- [Awesome](https://github.com/sindresorhus/awesome)
+
+Cover figure: Fig. 1, [Dexterous Manipulation Through Imitation Learning: A Survey](https://arxiv.org/abs/2504.03515).
+
+<a id="citation"></a>
+
+## Citation
+
+If this repository helps your research, please cite or link to it:
+
+```bibtex
+@misc{chen2026awesome,
+  title        = {Awesome Dexterous Manipulation Papers},
+  author       = {Chen, Tuo},
+  year         = {2026},
+  howpublished = {\url{https://github.com/airhiter/Awesome-Dexterous-Manipulation}},
+  url          = {https://github.com/airhiter/Awesome-Dexterous-Manipulation}
+}
+```
+
+Machine-readable citation metadata:  [CITATION.cff](CITATION.cff).
+
+<a id="contributors"></a>
+
+## Contributors
+
+Maintainer:  [Tuo Chen (@airhiter)](https://github.com/airhiter).
+
+Thanks to everyone who contributes papers, corrections and improvements.
+
+[View all contributors](https://github.com/airhiter/Awesome-Dexterous-Manipulation/graphs/contributors) · [Submit a paper](https://github.com/airhiter/Awesome-Dexterous-Manipulation/issues/new) · [Contribution guide](CONTRIBUTING.md)
+
+<a id="star-history"></a>
+
+## Star History
+
+<p align="center">
+  <a href="https://www.star-history.com/#airhiter/Awesome-Dexterous-Manipulation&amp;Date">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=airhiter/Awesome-Dexterous-Manipulation&amp;type=Date&amp;theme=dark">
+      <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=airhiter/Awesome-Dexterous-Manipulation&amp;type=Date" width="800">
+    </picture>
+  </a>
+</p>
+
+[View interactive star history](https://www.star-history.com/#airhiter/Awesome-Dexterous-Manipulation&Date) · [View GitHub stargazers](https://github.com/airhiter/Awesome-Dexterous-Manipulation/stargazers)
+
+<a id="license"></a>
+
+## License
+
+Original documentation, curated content and code in this repository are released under the [MIT License](LICENSE). Third-party papers, figures and external resources remain subject to their respective copyrights and licenses.
