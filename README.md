@@ -8,10 +8,6 @@ A curated reading list of dexterous robotic manipulation papers, including robot
 
 **Literature cutoff:** 2026-11-26 · **45 entries**
 
-This is a focused reading list rather than an exhaustive survey. Each paper has one primary category; research topics may overlap.
-
-> Metadata, venue claims and links are inherited from the supplied bibliography and have not been independently revalidated item by item. Some links lead to project pages rather than direct PDFs. Preprint status may change. Please verify against official proceedings before citing.
-
 ## Contents
 
 - [Data Acquisition, Imitation Learning and Cross-Embodiment Transfer (13)](#category-1)
@@ -25,7 +21,7 @@ This is a focused reading list rather than an exhaustive survey. Each paper has 
 - [Resources](#resources)
 - [Contributing](#contributing)
 
-**Reading priority:** S = deep reading; A = full reading; B = supplementary. These are editorial recommendations, not academic quality rankings.
+**Reading priority:** S = deep reading; A = full reading; B = supplementary.
 
 <a id="category-1"></a>
 
