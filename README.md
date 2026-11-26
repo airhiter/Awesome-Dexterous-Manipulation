@@ -252,9 +252,9 @@ Cover figure: Fig. 1, [Dexterous Manipulation Through Imitation Learning: A Surv
 If this repository helps your research, please cite or link to it:
 
 ```bibtex
-@misc{chen2026awesome,
+@misc{awesome_dexterous_manipulation_papers,
   title        = {Awesome Dexterous Manipulation Papers},
-  author       = {Chen, Tuo},
+  author       = {Tuo Chen},
   year         = {2026},
   howpublished = {\url{https://github.com/airhiter/Awesome-Dexterous-Manipulation}},
   url          = {https://github.com/airhiter/Awesome-Dexterous-Manipulation}
