@@ -5,7 +5,7 @@
 **Dexterous manipulation · Research papers · Reading roadmap**
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-![Papers](https://img.shields.io/badge/Papers-45-2867B2?style=flat-square)
+![Papers](https://img.shields.io/badge/Papers-49-2867B2?style=flat-square)
 ![Core Reading](https://img.shields.io/badge/Core%20Reading-20-7C3AED?style=flat-square)
 ![Updated](https://img.shields.io/badge/Updated-2026--11--26-16805D?style=flat-square)
 [![GitHub Stars](https://img.shields.io/github/stars/airhiter/Awesome-Dexterous-Manipulation?style=flat-square)](https://github.com/airhiter/Awesome-Dexterous-Manipulation/stargazers)
@@ -26,11 +26,11 @@
   <sub>Real-world examples of dexterous manipulation. Source: Fig. 1, <a href="https://arxiv.org/abs/2504.03515">Dexterous Manipulation through Imitation Learning: A Survey</a> (An et al., 2025). Image hosted by <a href="https://github.com/chang-xinhai/Awesome-Dexterous-Manipulation">chang-xinhai/Awesome-Dexterous-Manipulation</a>.</sub>
 </p>
 
-**Literature cutoff:** 2026-11-26 · **45 papers · 7 categories · 20 core readings**
+**Literature cutoff:** 2026-11-26 · **49 papers · 7 categories · 20 core readings**
 
 ## Contents
 
-- [Surveys (1)](#category-7)
+- [Surveys (5)](#category-7)
 - [Data Acquisition, Imitation Learning and Cross-Embodiment Transfer (13)](#category-1)
 - [Tactile Sensing and Multimodal Learning (10)](#category-2)
 - [Reinforcement Learning, Sim-to-Real and Post-training (7)](#category-3)
@@ -45,13 +45,19 @@
 
 <a id="category-7"></a>
 
-## 01. Surveys (1)
+## 01. Surveys (5)
 
 Where should a newcomer start?
 
 | ID | Paper | Venue / Status | Focus | Source | Priority |
 | --- | --- | --- | --- | --- | --- |
+| 46 | The Developments and Challenges Toward Dexterous and Embodied Robotic Manipulation: A Survey | IEEE RAM 2026 | Overview of embodied dexterity, data collection, learning frameworks and open challenges | [Source](https://doi.org/10.1109/MRA.2025.3642671) | **S** |
+| 47 | Dexterous Manipulation Through Imitation Learning: A Survey | IEEE T-ASE 2026 | Imitation learning, demonstrations, teleoperation and dexterous manipulation | [Source](https://doi.org/10.1109/TASE.2025.3646183) | **S** |
 | 45 | Dexterous Robotic Hands in the Foundation-Model Era: A Full-Stack Survey of Hardware, Data, Cross-Embodiment Transfer, Learning, and Evaluation | arXiv 2026.11 | Full-stack overview of dexterous robotic hands | [Source](https://arxiv.org/abs/2611.06724) | **S** |
+| 48 | Towards Robotic Dexterous Hand Intelligence: A Survey | arXiv 2026.05 | Hardware, control, learning, datasets and evaluation | [Source](https://arxiv.org/abs/2605.13925) | **A** |
+| 49 | Survey of Learning-Based Approaches for Robotic In-Hand Manipulation | Frontiers in Robotics and AI 2024 | Model-based learning, reinforcement learning and imitation learning for in-hand manipulation | [Source](https://doi.org/10.3389/frobt.2024.1455431) | **A** |
+
+**Suggested reading order:** Start with the IEEE RAM and IEEE T-ASE surveys to establish the field's foundations, then read the November 2026 full-stack survey for recent developments.
 
 <a id="category-1"></a>
 
