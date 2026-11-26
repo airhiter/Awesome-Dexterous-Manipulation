@@ -1,12 +1,32 @@
+<div align="center">
+
 # Awesome Dexterous Manipulation Papers
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Papers](https://img.shields.io/badge/Papers-45-blue) ![Updated](https://img.shields.io/badge/Updated-2026--11--26-informational)
+**Dexterous manipulation · Research papers · Reading roadmap**
+
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+![Papers](https://img.shields.io/badge/Papers-45-2867B2?style=flat-square)
+![Core Reading](https://img.shields.io/badge/Core%20Reading-20-7C3AED?style=flat-square)
+![Updated](https://img.shields.io/badge/Updated-2026--11--26-16805D?style=flat-square)
+[![GitHub Stars](https://img.shields.io/github/stars/airhiter/Awesome-Dexterous-Manipulation?style=flat-square)](https://github.com/airhiter/Awesome-Dexterous-Manipulation/stargazers)
 
 [English](README.md) | [简体中文](README.zh-CN.md)
 
-A curated reading list of dexterous robotic manipulation papers, including robotics conferences, related venues, industry technical reports and arXiv preprints.
+[Survey](#category-7) · [Core Reading](#core-reading) · [Resources](#resources) · [Contributing](#contributing)
 
-**Literature cutoff:** 2026-11-26 · **45 entries**
+</div>
+
+## About
+
+**Awesome Dexterous Manipulation Papers** brings together research on learning and control for dexterous robotic hands, including CoRL, RSS, ICRA, IROS and industry technical reports. Topics span data acquisition, tactile sensing, reinforcement learning, VLA, world models and dexterous grasping.
+
+<p align="center">
+  <a href="https://arxiv.org/abs/2504.03515"><img src="https://raw.githubusercontent.com/chang-xinhai/Awesome-Dexterous-Manipulation/main/assets/dexterous-manipulation-examples.png" alt="Real-world dexterous robotic manipulation examples" width="900"></a>
+  <br>
+  <sub>Real-world examples of dexterous manipulation. Source: Fig. 1, <a href="https://arxiv.org/abs/2504.03515">Dexterous Manipulation through Imitation Learning: A Survey</a> (An et al., 2025). Image hosted by <a href="https://github.com/chang-xinhai/Awesome-Dexterous-Manipulation">chang-xinhai/Awesome-Dexterous-Manipulation</a>.</sub>
+</p>
+
+**Literature cutoff:** 2026-11-26 · **45 papers · 7 categories · 20 core readings**
 
 ## Contents
 
