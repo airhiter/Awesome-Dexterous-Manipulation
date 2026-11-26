@@ -252,9 +252,9 @@
 如果本项目对你的研究有所帮助，欢迎引用或链接本仓库：
 
 ```bibtex
-@misc{chen2026awesome,
+@misc{awesome_dexterous_manipulation_papers,
   title        = {Awesome Dexterous Manipulation Papers},
-  author       = {Chen, Tuo},
+  author       = {Tuo Chen},
   year         = {2026},
   howpublished = {\url{https://github.com/airhiter/Awesome-Dexterous-Manipulation}},
   url          = {https://github.com/airhiter/Awesome-Dexterous-Manipulation}
