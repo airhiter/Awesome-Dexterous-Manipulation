@@ -8,6 +8,7 @@
 ![Papers](https://img.shields.io/badge/Papers-49-2867B2?style=flat-square)
 ![Core Reading](https://img.shields.io/badge/Core%20Reading-20-7C3AED?style=flat-square)
 ![Updated](https://img.shields.io/badge/Updated-2026--11--26-16805D?style=flat-square)
+[![License: MIT](https://img.shields.io/badge/License-MIT-6B7280?style=flat-square)](LICENSE)
 [![GitHub Stars](https://img.shields.io/github/stars/airhiter/Awesome-Dexterous-Manipulation?style=flat-square)](https://github.com/airhiter/Awesome-Dexterous-Manipulation/stargazers)
 
 [English](README.md) | [简体中文](README.zh-CN.md)
@@ -28,6 +29,14 @@
 
 **检索截止:** 2026-11-26 · **49 篇文献 · 7 个方向 · 20 篇核心精读**
 
+<a id="news"></a>
+
+## 更新日志
+
+- **2026-11-26:** 新增致谢、学术引用、许可证、Star History 和贡献者模块。
+- **2026-11-26:** 综述扩充至 5 篇，文献总数增至 49 篇，并统一连续编号。
+- **2026-11-26:** 发布首版中英文文献库，收录 45 篇论文，设置 7 个研究方向和 20 篇核心精读文献。
+
 ## 目录
 
 - [领域综述 (5)](#category-7)
@@ -40,6 +49,12 @@
 - [核心精读清单（20篇）](#core-reading)
 - [相关资源](#resources)
 - [贡献指南](#contributing)
+- [更新日志](#news)
+- [致谢](#acknowledgement)
+- [学术引用](#citation)
+- [贡献者](#contributors)
+- [Star History](#star-history)
+- [许可证](#license)
 
 **阅读优先级:** S＝重点精读；A＝完整通读；B＝补充阅读。
 
@@ -212,3 +227,66 @@
 ## 贡献指南
 
 欢迎通过 Issue 或 Pull Request 补充新论文、纠正链接及会议归属。具体收录和去重规则见 [CONTRIBUTING.md](CONTRIBUTING.md)。
+
+<a id="acknowledgement"></a>
+
+## 致谢
+
+本项目参考 Awesome 系列的文献整理与紧凑表格风格，感谢以下开源项目及其维护者提供的参考资源：
+
+- [Awesome-Dexterous-Manipulation](https://github.com/chang-xinhai/Awesome-Dexterous-Manipulation)
+- [Awesome-UMI](https://github.com/chang-xinhai/Awesome-UMI)
+- [Awesome-Robot-Data-Engine](https://github.com/chang-xinhai/Awesome-Robot-Data-Engine)
+- [Awesome-World-Action-Models](https://github.com/rcl-robotics/Awesome-World-Action-Models)
+- [Awesome](https://github.com/sindresorhus/awesome)
+
+首页配图来源：Fig. 1, [Dexterous Manipulation Through Imitation Learning: A Survey](https://arxiv.org/abs/2504.03515).
+
+<a id="citation"></a>
+
+## 学术引用
+
+如果本项目对你的研究有所帮助，欢迎引用或链接本仓库：
+
+```bibtex
+@misc{chen2026awesome,
+  title        = {Awesome Dexterous Manipulation Papers},
+  author       = {Chen, Tuo},
+  year         = {2026},
+  howpublished = {\url{https://github.com/airhiter/Awesome-Dexterous-Manipulation}},
+  url          = {https://github.com/airhiter/Awesome-Dexterous-Manipulation}
+}
+```
+
+机器可读的引用信息： [CITATION.cff](CITATION.cff).
+
+<a id="contributors"></a>
+
+## 贡献者
+
+项目维护者： [Tuo Chen (@airhiter)](https://github.com/airhiter).
+
+感谢所有提交论文、修正信息及完善文献库的贡献者。
+
+[查看全部贡献者](https://github.com/airhiter/Awesome-Dexterous-Manipulation/graphs/contributors) · [提交新论文](https://github.com/airhiter/Awesome-Dexterous-Manipulation/issues/new) · [贡献指南](CONTRIBUTING.md)
+
+<a id="star-history"></a>
+
+## Star History
+
+<p align="center">
+  <a href="https://www.star-history.com/#airhiter/Awesome-Dexterous-Manipulation&amp;Date">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=airhiter/Awesome-Dexterous-Manipulation&amp;type=Date&amp;theme=dark">
+      <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=airhiter/Awesome-Dexterous-Manipulation&amp;type=Date" width="800">
+    </picture>
+  </a>
+</p>
+
+[查看交互式收藏趋势](https://www.star-history.com/#airhiter/Awesome-Dexterous-Manipulation&Date) · [查看 GitHub 收藏者](https://github.com/airhiter/Awesome-Dexterous-Manipulation/stargazers)
+
+<a id="license"></a>
+
+## 许可证
+
+本项目原创文档、文献整理及相关代码采用 [MIT License](LICENSE)。第三方论文、图像和外部资源仍遵循各自的版权及授权条款。
