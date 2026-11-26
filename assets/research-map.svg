@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="330" viewBox="0 0 1000 330" role="img" aria-labelledby="title desc">
+  <title id="title">Dexterous manipulation research map</title>
+  <desc id="desc">Seven categories of the curated literature collection, with surveys first and six research topics below.</desc>
+  <rect width="1000" height="330" rx="20" fill="#101b2e"/>
+  <g font-family="Arial, Helvetica, sans-serif" text-anchor="middle">
+    <text x="500" y="39" fill="#e2e8f0" font-size="15" letter-spacing="3">DEXTEROUS MANIPULATION</text>
+    <rect x="325" y="58" width="350" height="52" rx="12" fill="#1e3a5f" stroke="#7dd3fc"/>
+    <text x="500" y="90" fill="#f8fafc" font-size="20" font-weight="bold">01  Surveys</text>
+    <path d="M500 110V127M175 127H825M175 127V141M500 127V141M825 127V141" fill="none" stroke="#64748b" stroke-width="2"/>
+    <rect x="20" y="141" width="310" height="69" rx="11" fill="#1c2c43" stroke="#38bdf8"/><text x="175" y="169" fill="#f8fafc" font-size="17" font-weight="bold">02  Data Acquisition</text><text x="175" y="190" fill="#cbd5e1" font-size="13">Demonstration &amp; transfer</text>
+    <rect x="345" y="141" width="310" height="69" rx="11" fill="#1c2c43" stroke="#2dd4bf"/><text x="500" y="169" fill="#f8fafc" font-size="17" font-weight="bold">03  Tactile Sensing</text><text x="500" y="190" fill="#cbd5e1" font-size="13">Multimodal learning</text>
+    <rect x="670" y="141" width="310" height="69" rx="11" fill="#1c2c43" stroke="#a78bfa"/><text x="825" y="169" fill="#f8fafc" font-size="17" font-weight="bold">04  Reinforcement Learning</text><text x="825" y="190" fill="#cbd5e1" font-size="13">Sim-to-real &amp; post-training</text>
+    <rect x="20" y="228" width="310" height="69" rx="11" fill="#1c2c43" stroke="#818cf8"/><text x="175" y="256" fill="#f8fafc" font-size="17" font-weight="bold">05  Foundation Models</text><text x="175" y="277" fill="#cbd5e1" font-size="13">VLA &amp; generalist policies</text>
+    <rect x="345" y="228" width="310" height="69" rx="11" fill="#1c2c43" stroke="#fbbf24"/><text x="500" y="256" fill="#f8fafc" font-size="17" font-weight="bold">06  World Models</text><text x="500" y="277" fill="#cbd5e1" font-size="13">Dynamics &amp; contact control</text>
+    <rect x="670" y="228" width="310" height="69" rx="11" fill="#1c2c43" stroke="#94a3b8"/><text x="825" y="256" fill="#f8fafc" font-size="17" font-weight="bold">07  Dexterous Grasping</text><text x="825" y="277" fill="#cbd5e1" font-size="13">Grasping &amp; datasets</text>
+    <path d="M175 210V228M500 210V228M825 210V228" stroke="#64748b" stroke-width="2" stroke-dasharray="3 4"/>
+  </g>
+</svg>
